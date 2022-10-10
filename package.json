@@ -13,8 +13,5 @@
 	},
 	"keywords": [],
 	"author": "",
-	"license": "MIT",
-	"dependencies": {
-		"axios": "^0.27.2"
-	}
+	"license": "MIT"
 }
